@@ -227,6 +227,7 @@ def OnSave(self,event):
         dlg.Destroy() 
 
 ```
+
 #界面介绍：
 + 主界面
 ![主页面](/pic/1.png)

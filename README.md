@@ -230,12 +230,16 @@ def OnSave(self,event):
 #界面介绍：
 + 主界面
 ![主页面](/pic/1.png)
+
 + 捕获界面
 ![捕获界面](/pic/2.png)
+
 + 打开pcap文件
 ![打开pcap](/pic/3.png)
+
 + 保存pcap文件
 ![保存pcap文件](/pic/4.png)
+
 + 数据显示
 ![数据显示1](/pic/5.png)
 ![数据显示2](/pic/6.png)

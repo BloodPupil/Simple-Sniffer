@@ -230,7 +230,7 @@ def OnSave(self,event):
 
 #界面介绍：
 + 主界面
-![主页面](/pic/1.png)
+![主页面](/pic/1.PNG)
 
 + 捕获界面
 ![捕获界面](/pic/2.png)
